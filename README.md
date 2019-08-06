@@ -12,13 +12,13 @@ FYP- Cemas Admin PWA 🚨
 ## Collaborate and Making changes
 
 1. Open folder in ATOM
-2. Open Git Bash to folder contained download/clone eg <code>cd Users/Acer/foldername</code>
+2. Open Git Bash to folder that contain download/clone eg <code>cd Users/Acer/foldername</code>
 3. Git bash - Input <code>git pull</code>
 4. If unsuccessfull text me 👌
 5. Success, save changes made and stage it and do commit
 6. Click "Push" at the bottom of the windows/lists of commits
 7. Check in github if the commit is working
-8. To check progress use <code>ionic serve</code> will not display in hosting.
+8. To check live progress use <code>ionic serve</code> but this new changes will not display in hosting.
 
 ## To deploy to hosting and update changes 
 
