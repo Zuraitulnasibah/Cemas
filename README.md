@@ -14,7 +14,7 @@ FYP- Cemas Admin PWA 🚨
 1. Open folder in ATOM
 2. Open Git Bash to folder contained download/clone eg <code>cd Users/Acer/foldername</code>
 3. Git bash - Input <code>git pull</code>
-4. If unsuccessfull text me 
+4. If unsuccessfull text me :ok_hand:
 5. Success, save changes made and stage it and do commit
 6. Click "Push" at the bottom of the windows/lists of commits
 7. Check in github if the commit is working
@@ -29,6 +29,9 @@ FYP- Cemas Admin PWA 🚨
 5. Clear devices cache first - in **History** (if the site have been opened before in your browser)
 6. Test go to [https://pwacemas.firebaseapp.com/]
 7. Try adding the PWA to home screen
+
+### Notes
+All pages still in testing/sample mode :smile: , once okay, page will be generate
 
 
 
